@@ -15,9 +15,9 @@ All of this is packed into case that is 20mm thick and no wider than a sheet of 
 * QAZ Keyboard PCB
 	* cbkbd.com
 * Banana Pi M2 Zero
-	* Amazon
+	* Amazon [Amazon](https://amzn.to/3DZmZps) or [Amazon](https://amzn.to/3DZn7VY)
 * Waveshare 7.9 Screen
-	* Amazon
+	* Amazon [Amazon](https://amzn.to/3DZmZps) or [Amazon](https://amzn.to/3DZn7VY)
 * Ampripper 3000
 	* Kickstart Design
 * Lipo Battery
