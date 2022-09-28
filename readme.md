@@ -1,15 +1,12 @@
 # QAZ Model 100
-#Keyboards
 
-The QAZ Model 100 is a cyberdeck inspired by the TRS/Tandy Model 100 portable computer from the mid 1980s. The Model 100 was a valuable productivity tool for writers on-the-go, especially reporters. It had an excellent  (for a portable computer) keyboard, useful software, and suitable screen— all in a small footprint. 
+The QAZ Personal Terminal [QAZterm] is a cyberdeck inspired by the TRS/Tandy Model 100 portable computer from the mid 1980s. The QAZterm follows the TRS 100 in being keyboard-focused, but substitutes out the antiquated 75% keyboard for a 35% layout known as QAZ. It ditches single-purpose keys for key chords and layers that eliminates wild hand acrobatics while increasing input speed. 
 
-The QAZ Model 100 follows the TRS 100 in being keyboard-focused, but substitutes out the antiquated 75% keyboard for a  layout known as QAZ.  using 34/37 keys, QAZ is a layout that is more suitable for the 21st century. It ditches single-purpose keys for key chords and layers that eliminates wild hand acrobatics while increasing input speed. 
+The QAZterm pairs this keyboard with a 7.9 inch screen. The brains are provided by any of a RPi Zero 2, Banana Pi M2, or RADXA Zero, and the whole system is powered by an Ampripper 3000 power supply and 3500mah battery. 
 
-The QAZ model 100 pairs this keyboard with a perfectly-matched and gorgeous 7.9 inch screen from Waveshare. The brains are provided by a Banana Pi M2, and the whole system is powered by an Ampripper 3000 power supply.
+All of this is packed into case that under an inch thick and no wider than a sheet of letter paper. 
 
-All of this is packed into case that is 20mm thick and no wider than a sheet of letter-size paper. 
-
-## Gallery
+The CPU is cooled by a custom copper heatsink and optional copper case back that let's the computer run overclocked without fans. 
 
 ## Parts List
 * QAZ Keyboard PCB
@@ -34,6 +31,7 @@ All of this is packed into case that is 20mm thick and no wider than a sheet of 
 * 3d Printed Parts
 
 ## Instructions
+
 This build proceeds in 4 steps.
 
 1. Print the case.
@@ -45,7 +43,7 @@ The most difficult part of this build is making the usb cables. This does not re
 
 ### Keyboard Build
 
-The QAZ build is no different than building a QAZ as a normal keyboard. So, you can follow the steps available here:
+The QAZ build is no different than building a QAZ as a normal keyboard. So, you can follow the steps available here: [CBKBD](https://docs.cbkbd.com/build-guides/qaz.html)
 
 ### The USB Cables
 
