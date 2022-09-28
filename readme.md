@@ -13,21 +13,22 @@ All of this is packed into case that is 20mm thick and no wider than a sheet of 
 
 ## Parts List
 * QAZ Keyboard PCB
-	* cbkbd.com
+	* [cbkbd.com](https://www.cbkbd.com/product/qaz)
 * Banana Pi M2 Zero
-	* Amazon [Amazon](https://amzn.to/3DZmZps) or [Amazon](https://amzn.to/3DZn7VY)
+	* [Amazon](https://amzn.to/3dN8PNy) or [Amazon](https://amzn.to/3Chq7Mb)
 * Waveshare 7.9 Screen
-	* Amazon [Amazon](https://amzn.to/3DZmZps) or [Amazon](https://amzn.to/3DZn7VY)
+	* [Amazon](https://amzn.to/3DZmZps) or [Amazon](https://amzn.to/3DZn7VY)
 * Ampripper 3000
-	* Kickstart Design
+	* [Kickstart Design](https://www.kickstart-design.com/our-products/p/amp-ripper-3000)
 * Lipo Battery
-	* Amazon
+	* [Amazon](https://amzn.to/3BOCNZH)
 * Wire
-	* Amazon
+	* [Amazon](https://amzn.to/3RiXVNh)
 * Usb-C Ends
-	* Amazon
+	* [Amazon](https://amzn.to/3SHZcym) 
 * Usb-Micro Ends
-	* Amazon
+	* [Amazon](https://amzn.to/3xZ4yxv)
+	
 * 4x m2 screws- 6mm
 * 6x m2.5 screws- 8mm
 * 3d Printed Parts
